@@ -4,7 +4,7 @@ using ModelViewController.Data;
 using System;
 using System.Linq;
 
-namespace MvcMovie.Models;
+namespace ModelViewController.Models;
 
 public static class SeedData
 {

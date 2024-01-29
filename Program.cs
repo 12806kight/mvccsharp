@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using ModelViewController.Data;
 using ModelViewController.Models;
-using MvcMovie.Models;
+
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ModelViewControllerContext>(options =>

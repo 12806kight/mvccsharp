@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ModelViewController.Data;
-using MvcMovie.Models;
+using ModelViewController.Models;
 
 namespace ModelViewController.Controllers
 {
